@@ -71,6 +71,7 @@
     "node": ">=18"
   },
   "resolutions": {
-    "react-native-svg": "15.1.0"
+    "react-native-svg": "15.1.0",
+    "@xmldom/xmldom": "~0.8.4"
   }
 }
